@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Battlefield
+comment0.text=\r\n\ The\ battlefield\ in\ which\ the\ player\ fights\r\n\ \r\n\ @author\ Michael\r\n\ @version\ 10/15/2014\r\n
+comment1.params=
+comment1.target=Battlefield()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Battlefield.\r\n\ \r\n
+numComments=2

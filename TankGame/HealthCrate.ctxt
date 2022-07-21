@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=HealthCrate
+comment0.text=\r\n\ A\ crate\ that\ the\ player\ picks\ up\ to\ restore\ health\r\n\ \r\n\ @author\ Michael\r\n\ @version\ 15/12/2014\r\n
+comment1.params=
+comment1.target=HealthCrate()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ HealthCrate\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=3

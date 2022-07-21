@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Enemy
+comment0.text=\r\n\ The\ superclass\ of\ all\ enemies\r\n\ \r\n\ @author\ Michael\r\n\ @version\ 10/10/2014\r\n
+comment1.params=
+comment1.target=void\ turnTowardsTank()
+comment1.text=\r\n\ A\ method\ that\ allows\ the\ object\ to\ turn\ towards\ the\ player,\ or\ MyTank.class\r\n
+comment2.params=
+comment2.target=void\ moveForward()
+comment2.text=\r\n\ A\ method\ that\ calculates\ whether\ this\ tank\ is\ in\ range\ of\ the\ Player\r\n
+comment3.params=x\ y
+comment3.target=int\ distanceCalc(int,\ int)
+comment3.text=\r\n\ A\ method\ that\ calculates\ the\ distance\ between\ the\ coordinates\ enter\ and\ the\ object\r\n
+comment4.params=
+comment4.target=void\ makeRoom()
+comment4.text=\r\n\ Makes\ room\ so\ that\ the\ enemies\ aren't\ stacked\r\n
+comment5.params=
+comment5.target=void\ checkCollision()
+comment5.text=\r\n\ Checks\ collision,\ takes\ damage\ and\ removes\ the\ object\ if\ the\ health\ is\ too\ low\r\n
+comment6.params=
+comment6.target=boolean\ checkDead()
+comment6.text=\r\n\ Returns\ true\ if\ the\ health\ is\ less\ than\ 1\ and\ false\ otherwise\r\n
+comment7.params=
+comment7.target=void\ humanCheckCollision()
+numComments=8

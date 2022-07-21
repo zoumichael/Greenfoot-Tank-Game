@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=EnemyMissileTank
+comment0.text=\r\n\ An\ enemy\ Tank\ that\ shoots\ missiles\r\n\ \r\n\ @author\ Michael\ \r\n\ @version\ 10/10/2014\r\n
+comment1.params=
+comment1.target=EnemyMissileTank()
+comment1.text=\r\n\ The\ constructer\ for\ the\ enemy\ set\ variables\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ EnemyMissileTank\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ shoot()
+numComments=4

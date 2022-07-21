@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MyMissile
+comment0.text=\r\n\ The\ missile\ that\ the\ player\ shoots\r\n\ \r\n\ @author\ Michael\r\n\ @version\ 10/6/2014\r\n
+comment1.params=
+comment1.target=MyMissile()
+comment1.text=\r\n\ Constructor\ for\ MyMissile\ that\ sets\ the\ direction\ and\ variables\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Missile\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ selfDestruct()
+comment3.text=\r\n\ SelfDestruct\ automatically\ destroys\ the\ projectile\ after\ counter\ exceeds\ fizzOut\r\n
+comment4.params=
+comment4.target=void\ turnTowardsMouse()
+numComments=5

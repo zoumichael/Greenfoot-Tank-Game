@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MachineGunSpawner
+comment0.text=\r\n\ The\ object\ that\ spawns\ machine\ gun\ enemies\r\n\ \r\n\ @author\ Michael\ \r\n\ @version\ 10/15/2014\r\n
+comment1.params=
+comment1.target=MachineGunSpawner()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ MachineGunSpawner\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ createEnemy()
+numComments=4

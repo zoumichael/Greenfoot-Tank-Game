@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=MGunBullet
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MGunBullet\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=acute
+comment1.target=MGunBullet(int)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ MGunBullet\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ selfDestruct()
+comment3.text=\r\n\ SelfDestruct\ automatically\ destroys\ the\ projectile\ after\ counter\ exceeds\ fizzOut\r\n
+comment4.params=
+comment4.target=void\ turnTowardsMouse()
+numComments=5

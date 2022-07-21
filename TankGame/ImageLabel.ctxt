@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ImageLabel
+comment0.text=\r\n\ Label\ that\ displays\ the\ score\r\n\ \r\n\ @author\ Michael\r\n\ @version\ 21/12/2014\r\n
+comment1.params=score
+comment1.target=ImageLabel(int)
+comment1.text=\r\n\ Constructor\ for\ ImageLabel\r\n
+numComments=2

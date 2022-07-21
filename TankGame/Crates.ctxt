@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Crates
+comment0.text=\r\n\ The\ superclass\ of\ crates\ that\ the\ player\ can\ pick\ up\r\n\ \r\n\ @author\ Michael\ \r\n\ @version\ 15/12/2014\r\n
+comment1.params=
+comment1.target=void\ checkStack()
+comment1.text=\r\n\ Checks\ if\ the\ crates\ is\ stacked\ on\ top\ of\ another\ crate\r\n
+comment2.params=
+comment2.target=void\ jump()
+comment2.text=\r\n\ Jumps\ to\ a\ random\ position\ on\ the\ map\r\n
+numComments=3

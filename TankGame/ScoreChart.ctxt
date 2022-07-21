@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ScoreChart
+comment0.text=\r\n\ A\ markers\ that\ displays\ the\ score\ \r\n\ \r\n\ @author\ Michael\ \r\n\ @version\ 20/10/2014\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ HealthBar\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ drawHealth()
+comment2.text=\r\n\ Draws\ a\ healthbar\ above\ the\ player\r\n
+comment3.params=
+comment3.target=void\ updateLocation()
+numComments=4

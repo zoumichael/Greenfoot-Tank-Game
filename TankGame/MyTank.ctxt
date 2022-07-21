@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MyTank
+comment0.text=\r\n\ The\ tank\ that\ the\ player\ controls\r\n\ \r\n\ @author\ Michael\r\n\ @version\ 10/6/2014\r\n
+comment1.params=
+comment1.target=MyTank()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ moveAround()
+comment4.params=
+comment4.target=void\ checkCollisionObject()
+comment5.params=
+comment5.target=int\ getHealth()
+comment6.params=
+comment6.target=void\ checkCollision()
+comment7.params=buff
+comment7.target=void\ incrementScore(int)
+comment7.text=\r\n\ Increments\ score\ by\ a\ set\ amount\r\n
+numComments=8

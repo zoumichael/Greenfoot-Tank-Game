@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=ChainBomb
+comment0.text=\r\n\ An\ AoE\ weapon\ that\ creates\ three\ of\ the\ same\ bomb\ everytime\ it\ hits\ something\r\n\ \r\n\ @author\ Michael\r\n\ @version\ 10/23/2014\r\n
+comment1.params=
+comment1.target=ChainBomb()
+comment2.params=direction
+comment2.target=ChainBomb(int)
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ -\ do\ whatever\ the\ Fragment\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment4.params=
+comment4.target=void\ selfDestruct()
+comment4.text=\r\n\ SelfDestruct\ automatically\ destroys\ the\ projectile\ after\ counter\ exceeds\ fizzOut\r\n
+comment5.params=
+comment5.target=void\ turnTowardsMouse()
+comment6.params=
+comment6.target=void\ updateImmunity()
+comment7.params=
+comment7.target=boolean\ getImmunity()
+numComments=8

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MissileCrate
+comment0.text=\r\n\ The\ crate\ that\ the\ player\ to\ restore\ missile\ ammo\r\n\ \r\n\ @author\ Michael\ \r\n\ @version\ 15/12/2014\r\n
+comment1.params=
+comment1.target=MissileCrate()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ MissileCrate\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=3

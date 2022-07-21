@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=EnemyMGun
+comment0.text=\r\n\ An\ enemy\ machine\ gun\ projectile\r\n\ \r\n\ @author\ Michael\ \r\n\ @version\ 14/10/2014\r\n
+comment1.params=direction
+comment1.target=EnemyMGun(int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

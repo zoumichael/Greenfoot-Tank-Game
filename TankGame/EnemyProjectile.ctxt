@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EnemyProjectile
+comment0.text=\r\n\ Superclass\ of\ all\ enemy\ projectiles\ contains\ variables\r\n\ \r\n\ @author\ Michael\r\n\ @version\ 14/10/2014\r\n
+comment1.params=
+comment1.target=void\ selfDestruct()
+numComments=2
